@@ -1,0 +1,9 @@
+[
+null,
+{"id":1,"expanded":false,"name":"MAP001","order":3,"parentId":0,"scrollX":598.8,"scrollY":519.6},
+{"id":2,"expanded":false,"name":"小屋","order":6,"parentId":0,"scrollX":589.1999999999999,"scrollY":930},
+{"id":3,"expanded":true,"name":"Hero's Hometown","order":1,"parentId":0,"scrollX":1474.8,"scrollY":1411.2},
+{"id":4,"expanded":false,"name":"森林道路","order":5,"parentId":0,"scrollX":648,"scrollY":750},
+{"id":5,"expanded":true,"name":"呆毛村","order":4,"parentId":0,"scrollX":1426.8,"scrollY":4641},
+{"id":6,"expanded":true,"name":"小屋繪圖區","order":2,"parentId":0,"scrollX":1302,"scrollY":2754}
+]
